@@ -8,5 +8,6 @@ def ensure_question(s)
     end
 end
 
-ensure_question("Yes")
+#testing
+ensure_question("Yes") 
 ensure_question("No?")
